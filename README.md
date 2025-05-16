@@ -24,8 +24,15 @@
 ---
 ###
 
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ichwalM&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+###
+---
+
 <img src="https://raw.githubusercontent.com/ichwalM/ichwalM/output/snake.svg" alt="Snake animation" />
 
+---
 ###
 
 
