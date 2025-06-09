@@ -31,7 +31,6 @@
 ---
 
 <img src="https://raw.githubusercontent.com/ichwalM/ichwalM/output/snake.svg" alt="Snake animation" />
-
 ---
 ###
 
