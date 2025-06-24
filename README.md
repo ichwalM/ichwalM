@@ -33,6 +33,7 @@
 
 <img src="https://raw.githubusercontent.com/ichwalM/ichwalM/output/snake.svg" alt="Snake animation" />
 ---
+
 ###
 <!--
 **ichwalM/ichwalM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
