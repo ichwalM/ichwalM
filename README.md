@@ -19,7 +19,11 @@
 
 ---
 ### My Github Status
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichwalM&layout=compact&langs_count=10&theme=dark"/>
+
 ![Ichwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ichwalM&show_icons=true&theme=radical)
+
 
 ---
 ###
