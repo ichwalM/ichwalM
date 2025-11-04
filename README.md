@@ -22,21 +22,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichwalM&layout=compact&langs_count=10&theme=dark"/>
 
-![Ichwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ichwalM&show_icons=true&theme=radical)
-
-
----
 ###
 
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ichwalM&theme=onedark)](https://github.com/ichwalM/github-profile-trophy)
+<!-- ### 🏆 GitHub Trophies -->
 
-###
----
-
->
-###
----
 <!--
 **ichwalM/ichwalM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
