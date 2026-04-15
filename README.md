@@ -22,10 +22,10 @@
 
 <div align="center">
   <a href="https://github.com/ichwalM">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ichwalM&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&text_color=c9d1d9&icon_color=70a5fd" alt="Ichwal's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ichwalM&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=c9d1d9&icon_color=2563EB" alt="Ichwal's GitHub Stats" />
   </a>
   <a href="https://github.com/ichwalM">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichwalM&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&text_color=c9d1d9" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichwalM&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=c9d1d9" alt="Top Languages" />
   </a>
 </div>
 
@@ -33,7 +33,7 @@
 
 <div align="center">
   <a href="https://github.com/ichwalM">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ichwalM&theme=tokyonight&hide_border=true&background=0D1117&ring=70a5fd&fire=70a5fd&currHighlight=70a5fd&stroke=0D1117" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ichwalM&theme=dark&hide_border=true&background=0D1117&ring=2563EB&fire=2563EB&currHighlight=2563EB&stroke=0D1117" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -45,8 +45,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ichwalM/ichwalM/output/snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ichwalM/ichwalM/output/snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ichwalM/ichwalM/output/snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ichwalM/ichwalM/output/snake.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ichwalM/ichwalM/output/snake.svg?v=1">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ichwalM/ichwalM/output/snake.svg?v=1">
   </picture>
 </div>
